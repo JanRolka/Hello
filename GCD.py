@@ -7,4 +7,4 @@ def GCD(a,b):
             a=a-b 
     print(a)
 
-GCD(1002,6)
+GCD(900,150)
